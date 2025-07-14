@@ -1,3 +1,3 @@
 # Sharing
-Sharing Text Files
-I added some text
+Sharing Text Files.
+I added some text.
